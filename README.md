@@ -1,8 +1,8 @@
 ## Olá, Sou Eugenio! Estudo programação Front-End e Back-End
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agstbelle&show_icons=true&theme=onedark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agstbelle&layout=compact&theme=onedark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EugenioUrbano&show_icons=true&theme=onedark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioUrbano&layout=compact&theme=onedark"/>
 </div>
 <div style="diaplay: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
