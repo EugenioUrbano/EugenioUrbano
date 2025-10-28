@@ -1,4 +1,4 @@
-## Olá, Sou Eugenio! Estudo programação Front-End e Back-End
+## Olá, Sou Eugenio! Estudo programação Full-Stack
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EugenioUrbano&show_icons=true&theme=onedark"/>
