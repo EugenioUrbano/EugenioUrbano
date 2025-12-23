@@ -1,4 +1,3 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 <p align="left">Hello, I'm Eugenio. I do web systems programming and have a technical degree in internet computing from IFRN.</p>
 
 ###
@@ -25,19 +24,7 @@
 </div>
 
 ###
-<div class="container text-center">
-  <div class="row">
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-  </div>
-</div>
+
 <div align="left">
   <img height="200" src="https://i.imgflip.com/y804x.jpg"  />
 </div>
