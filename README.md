@@ -1,13 +1,17 @@
 ## Hello, I'm Eugenio. I do web systems programming and have a technical degree in internet computing from IFRN.
 
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EugenioUrbano&show_icons=true&theme=onedark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioUrbano&layout=compact&theme=onedark"/>
+<div style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
-<div style="diaplay: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg"/>
-</div>
+
+<details>
+  <summary>Github Stats 📊</summary>
+  
+  <a href="#">![Stats](https://github-readme-stats.vercel.app/api?username=eugeniourbano&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+</details>
