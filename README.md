@@ -6,12 +6,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
-<details>
-  <summary>Github Stats 📊</summary>
-  
-  <a href="#">![Stats](https://github-readme-stats.vercel.app/api?username=eugeniourbano&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-</details>
+
