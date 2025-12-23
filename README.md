@@ -1,4 +1,4 @@
-## Olá, Sou Eugenio! Estudo programação Full-Stack
+## Hello, I'm Eugenio. I do web systems programming and have a technical degree in internet computing from IFRN.
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EugenioUrbano&show_icons=true&theme=onedark"/>
